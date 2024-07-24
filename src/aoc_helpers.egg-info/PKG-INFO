@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: aoc-helpers
+Version: 0.1.0
+Summary: A set of convenience functions for Advent of Code.
+Author-email: mitches-got-glitches <mitch.edmunds@proton.me>
+Requires-Python: >=3.12
+Requires-Dist: dynaconf
